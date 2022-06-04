@@ -2,5 +2,5 @@
 
 
 - 🔭 Eu sou estágiario na parte de desenvolvimento web
-- 🌱 Estudando front-end
+- 🌱 Estudande de ADS
 - 📫 Contate-me: joaomrcs47@gmail.com
