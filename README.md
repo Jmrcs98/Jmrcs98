@@ -5,7 +5,7 @@ Welcome to my personal learning and exploration repository! Here, you'll dive in
 
 About Me:
 
-🧠 Robotics and Artificial Intelligence student at UFPE
-💻 Graduate in Analysis and Systems Development
-🚀 Enthusiast about technology and innovation
-📚 Relentless learner and curious mind
+-🧠 Robotics and Artificial Intelligence student at UFPE
+-💻 Graduate in Analysis and Systems Development
+-🚀 Enthusiast about technology and innovation
+-📚 Relentless learner and curious mind
